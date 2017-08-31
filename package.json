@@ -1,35 +1,27 @@
 {
   "name": "echarts",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "description": "A powerful charting and visualization library for browser",
   "keywords": [
     "visualization",
     "canvas"
   ],
-  "homepage": "http://echarts.baidu.com/",
+  "homepage": "http://www.modern.org/",
   "author": [
     {
-      "name": "Kenner",
-      "email": "kener.linfeng@gmail.com"
-    },
-    {
-      "name": "Yi Shen",
-      "url": "https://github.com/pissang"
-    },
-    {
-      "name": "Shuang Su",
-      "url": "https://github.com/100pah"
+      "name": "aabcwen",
+      "email": "aabcwen@163.com"
     }
   ],
   "contributors": [
     {
-      "name": "erik",
-      "email": "errorrik@gmail.com"
+      "name": "aabcwen",
+      "email": "aabcwen@163.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecomfe/echarts.git"
+    "url": "https://github.com/aabcwen/MyEcharts.git"
   },
   "scripts": {
     "prepublish": "node build/amd2common.js"
